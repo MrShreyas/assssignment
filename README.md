@@ -7,7 +7,7 @@
 
 - open link in browser: http://127.0.0.1:8000/api/reminders/create/
 
-- paste any data in any format below in content textarea in this format
+- paste any data below in content textarea in this format
   {
           "date": "2023-10-01",
           "time": "12:00:00",
